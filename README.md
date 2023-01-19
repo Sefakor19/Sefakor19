@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sefakor19
 - 👀 I’m interested in Designing, Coding and Data Analysis.
-- 🌱 I’m currently learning Data Science, Full Stack Developing and Product Design.
+- 🌱 I’m currently learning Data Science, Software Engineering and Product Design.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me serphakor19@gmail.com
 
